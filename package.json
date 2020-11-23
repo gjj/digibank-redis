@@ -1,0 +1,22 @@
+{
+  "name": "digibank-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjj/digibank-redis.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gjj/digibank-redis/issues"
+  },
+  "homepage": "https://github.com/gjj/digibank-redis#readme",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
